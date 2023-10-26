@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fauzi Brillian Ananta</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzibrillian" alt="fauzibrillian" /></a> </p>
 
