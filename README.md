@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **PHP,HTML,MySql**
+- 💬 Ask me about **PHP, HTML, MySql**
 
 - 📫 How to reach me **brillianfauzi@gmail.com**
 
