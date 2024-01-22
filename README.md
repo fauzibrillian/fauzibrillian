@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 
-- 🌱 I’m currently learning **Golang , MongoDB**
-
-- 💬 Ask me about **PHP, HTML, MySql**
+- 💬 Ask me about **GO, PHP, MySql**
 
 - 📫 How to reach me **brillianfauzi@gmail.com**
 
