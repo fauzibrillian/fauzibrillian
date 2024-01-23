@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **brillianfauzi@gmail.com**
 
-Hello, I'm Fauzi Brillian Ananta, a dedicated backend developer with a passion for crafting robust and efficient solutions. My expertise lies in **GO, PHP, and MySQL**, where I bring ideas to life through clean and scalable code. 
+Hello, I'm Fauzi Brillian Ananta, a dedicated backend developer with a passion for crafting robust and efficient solutions. My expertise in **GO, PHP, and MySQL**, where I bring ideas to life through clean and scalable code. 
 
 Let's collaborate and build something extraordinary together! 🚀
 
