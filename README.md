@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Backend Engineer 💻</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 
-<br>
-Hello, I'm Fauzi Brillian Ananta, a dedicated backend developer with a passion for crafting robust and efficient solutions. My expertise in **GO, PHP, and MySQL**.
+Hello, I'm Fauzi Brillian Ananta, a dedicated backend developer with a passion for crafting robust and efficient solutions. My expertise in **GO, PHP, and MySQL**,
 
 Let's collaborate and build something extraordinary together! 🚀
-
+<br>
 - 💬 Ask me about **GO, PHP, MySql**
 - 🌱 I’m currently learning **Microservices, MongoDB, RabbitMq**
 - 📫 How to reach me **brillianfauzi@gmail.com**
