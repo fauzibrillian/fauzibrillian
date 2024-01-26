@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauzi Brillian Ananta</h1>
-<h3 align="center">A passionate Backend developer 💻</h3>
+<h3 align="center">A passionate Backend Engineer 💻</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 
 - 💬 Ask me about **GO, PHP, MySql**
