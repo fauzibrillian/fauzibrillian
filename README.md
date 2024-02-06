@@ -4,7 +4,8 @@
 
 Hello, I'm Fauzi Brillian Ananta, a dedicated backend developer with a passion for crafting robust and efficient solutions. My expertise in **GO, PHP, and MySQL**,
 
-Let's collaborate and build something extraordinary together! 🚀 Happy coding! 🤖
+Let's collaborate and build something extraordinary together! 🚀 
+Happy coding! 🤖
 <br>
 - 💬 Ask me about **GO, PHP, MySql**
 - 🌱 I’m currently learning **Microservices, MongoDB, RabbitMq**
